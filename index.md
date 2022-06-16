@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Perfect Bamboo
 
 You can use the [editor on GitHub](https://github.com/stefc/perfect-bamboo-eu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
